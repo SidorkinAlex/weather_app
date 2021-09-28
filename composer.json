@@ -1,0 +1,22 @@
+{
+    "name": "sidorkinalex/weatherapp",
+    "description": "Application to get weather information from any public API, the application must be executed using OOP, try to apply design patterns. It should be able to save the received data in a json and xml file format, depending on the file type parameter passed to it.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Sidorkin",
+            "email": "palach.orl@mail.ru"
+        }
+    ],
+    "require": {
+        "psr/log": "1.1.4",
+        "ext-json": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SidorkinAlex\\Weatherapp\\": "src/"
+        }
+    }
+}

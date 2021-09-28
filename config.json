@@ -1,0 +1,7 @@
+{
+  "saveFormat": "json",
+  "yandexAPIToken": "fd0d006b-cc8a-4016-b23c-afcf00cc64b0",
+  "corYandexURL": "https://api.weather.yandex.ru/v2/forecast",
+  "defaultLat": "52.97083676499036",
+  "defaultLon": "36.06436555767063"
+}
